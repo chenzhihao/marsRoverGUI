@@ -1,0 +1,66 @@
+.main {
+  padding-top: 25px;
+  position: relative;
+}
+
+.gridWrapper {
+  position: relative;
+  margin: 0 auto;
+  width: 500px;
+  height: 500px;
+}
+
+.controllerInputWrapper {
+  margin: 20px auto 0;
+  text-align: center;
+}
+
+.controllerInputPadding {
+  height: 100px;
+  margin: 0 auto;
+  width: 500px;
+  padding: 8px 10px;
+  background: #10121A;
+  opacity: 0.74;
+}
+
+.controllerInput {
+  background: #10121A;
+  font-family: monospace;
+  width: 100%;
+  height: 80px;
+  color: white;
+  resize: none;
+  font-size: 14px;
+}
+
+.controllerOutput {
+  background: rgba(56, 56, 56, 0.6);
+  color: white;
+  font-size: 14px;
+  resize: none;
+  opacity: 0.8;
+  padding: 10px;
+  border-radius: 6px;
+  top: 27px;
+  right: -230px;
+  width: 200px;
+  min-height: 100px;
+  position: absolute;
+  font-weight: bold;
+}
+
+.main {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.btn {
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+  margin: 8px;
+  border: 1px solid white;
+  padding: 10px 20px;
+  background: rgba(0,0,0,0.4);
+}

@@ -15,3 +15,6 @@ Then we can do build and launch a http-server at http://localhost:8080/
 ```shell
  npm run start
 ```
+
+## Online demo page:
+[demo](https://chenzhihao.github.io/marsRoverGUI/)

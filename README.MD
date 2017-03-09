@@ -1,6 +1,6 @@
 # Mars Rover GUI
 
-This is the GUI for Mars Rover, the all MarsRover logic is from "MarsRover"repo, I only override Controller.js
+This is the GUI for Mars Rover, the all MarsRover logic is from https://github.com/chenzhihao/marsRover, I only override Controller.js
 to GUIController.js for some methods. Please check the GUIController.js for details.
 
 ## How to execute code:
